@@ -26,6 +26,10 @@ Enthusiastically developing cool programming skills, I transform them into tools
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=4rl3q1n&layout=compact&theme=dark)
 
+![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=4rl3q1n&show_icons=true&theme=dracula)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=4rl3q1n&theme=dracula&border_radius=4.5)
+
 ---
 
 <picture>
