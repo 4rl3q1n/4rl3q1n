@@ -24,4 +24,4 @@ Enthusiastically developing cool programming skills, I transform them into tools
 
 ### 📊 Statistics
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=4rl3q1n\&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=4rl3q1n&layout=compact&theme=dark)
