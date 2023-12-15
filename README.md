@@ -25,7 +25,6 @@ Enthusiastically developing cool programming skills, I transform them into tools
 ### 📊 Statistics
 
 ![](https://github-readme-stats.vercel.app/api?username=4rl3q1n&theme=merko&hide_border=true&include_all_commits=false&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=4rl3q1n&theme=merko&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=4rl3q1n&theme=merko&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ---
